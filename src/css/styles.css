@@ -1,47 +1,4 @@
 
-
-/* body {
-background-color: aquamarine;
-}
-
-.search-form{
-  display: flex;
-  justify-content: center;
-  background-color: blue;
-padding-top: 5px;
-padding-bottom: 5px;
-}
-
-.gallery{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.photo-card{
-  display: flex;
-  flex-direction: column;
-  flex-basis: calc(100% / 5);
-  width: 350;
-  margin: 5px;
-}
-
-.img{
-  display: block;
-  max-width: 100%;
-  overflow: hidden;
-}
-.info{
-  background-color: aliceblue;
-  display: flex;
-  flex-grow: 1;
-  padding: 5px;
-} */
-
-
-
-
-
 body {
   background-color: darkslategray;
 }
