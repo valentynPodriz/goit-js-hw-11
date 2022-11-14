@@ -22,7 +22,6 @@ body {
   flex-direction: column;
   flex-basis: calc(100% / 5);
   width: 350;
-  /* // height: 280; */
   margin: 5px;
 }
 
